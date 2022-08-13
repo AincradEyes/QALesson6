@@ -1,2 +1,0 @@
-# QALesson6
-Homework
